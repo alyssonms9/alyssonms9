@@ -1,10 +1,10 @@
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Oi!%20Eu%20sou%20o%20Alysson%20Silva%20👍&reversal=true&section=header&textBg=false&fontSize=50&strokeWidth=0&fontAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Oi!%20Eu%20sou%20o%20Alysson%20Silva%20👍&fontSize=50">
 </div>
 
 <p align="left">Buscando sempre melhorar a cada dia</p>
 
-<h3 align="left">💻 Tecnologias</h3>
+<h3 align="left">Tecnologias</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
 </div>
 
-<h3 align="left">📞 Contato</h3>
+<h3 align="left">Contato</h3>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -32,4 +32,10 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   <img width="5" />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+</div>
+
+<h3></h3>
+
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=✌️">
 </div>
